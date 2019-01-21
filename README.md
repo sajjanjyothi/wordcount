@@ -6,7 +6,7 @@ Usage
 ============
 ./wordcount -h
 <br>
-Usage ./wordcount <file name>
+Usage ./wordcount -f filename
 <br>
   
 Sample
