@@ -7,11 +7,14 @@ This solution can be compiled as
 Usage
 ============
 ./wordcount -h
+<br>
 Usage ./wordcount <file name>
-
+<br>
+  
 Sample
 ===========
 ./wordcount -f glb_test.txt 
+<br>
 242 --- The
 43 --- G4S
 40 --- Justice
