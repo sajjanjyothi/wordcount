@@ -188,7 +188,7 @@ static int freeResources()
 
 static void printUsage(char *exec)
 {
-    fprintf(stderr, "Usage %s <file name>\n", exec);
+    fprintf(stderr, "Usage %s -f filename\n", exec);
     exit(1);
 }
 /**
