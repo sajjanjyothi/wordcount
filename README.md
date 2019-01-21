@@ -1,6 +1,6 @@
 # wordcount
 
-This solution can compiled as 
+This solution can be compiled as 
 
   gcc -o wordcount wordcount.c 
 
