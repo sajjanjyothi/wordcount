@@ -1,5 +1,3 @@
-# wordcount
-
 This solution can be compiled as 
 
   gcc -o wordcount wordcount.c 
@@ -15,23 +13,23 @@ Sample
 ===========
 ./wordcount -f glb_test.txt 
 <br>
-242 --- The
-43 --- G4S
-40 --- Justice
-40 --- However,
-38 --- Medway
-34 --- All
-33 --- John
-33 --- Jerry
-30 --- "Local
-27 --- Reports
-27 --- A
-26 --- G4S's
-26 --- But
-25 --- Ultimately,
-23 --- Painful
-20 --- It
-20 --- These
-19 --- Image
-19 --- "Medway's
-18 --- There
+242 --- The <br>
+43 --- G4S <br>
+40 --- Justice <br>
+40 --- However, <br>
+38 --- Medway <br>
+34 --- All <br>
+33 --- John <br>
+33 --- Jerry <br>
+30 --- "Local <br>
+27 --- Reports <br>
+27 --- A <br>
+26 --- G4S's <br>
+26 --- But <br>
+25 --- Ultimately, <br>
+23 --- Painful <br>
+20 --- It <br>
+20 --- These <br>
+19 --- Image <br>
+19 --- "Medway's <br>
+18 --- There <br>
